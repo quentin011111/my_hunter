@@ -1,0 +1,8 @@
+./Makefile:60: illegal token in column 16, giving up (hint: fix the file or remove it from the working set)
+./Makefile:60: INFO:C-A3
+./include/libmy.h:52: MAJOR:C-F3
+./include/libmy.h:52: MAJOR:C-F5
+./lib/my/animation.c:26: MINOR:C-F2
+./my_hunter.c:29: MAJOR:C-F6
+./my_hunter.c:59: MAJOR:C-F3
+./my_hunter.c:59: MAJOR:C-F5
