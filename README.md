@@ -6,4 +6,7 @@ exemple visuel :
 
 tirer en pressant la souris ou le pad et visez avec la souris ou le pad s'est très interactif
 
-pour tester ce programme veuillez copier ce repot!
+pour tester ce programme veuillez copier ce repot! 
+dans le terminal : git clone (le repot)
+ensuite faite un make
+lancez le programme
